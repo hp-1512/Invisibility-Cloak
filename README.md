@@ -5,11 +5,6 @@ Built using **Python + OpenCV**, this project makes you *disappear* in real-time
 
 ---
 
-## 📸 Demo
-(Add GIF or video here)
-
----
-
 ## 🚀 Features
 - Real-time background capture
 - Cloak detection using HSV color space
@@ -19,7 +14,7 @@ Built using **Python + OpenCV**, this project makes you *disappear* in real-time
 ---
 
 ## 🛠 Tech Stack
-- Python 3.x
+- Python 3.12
 - OpenCV
 - NumPy
 
@@ -29,5 +24,5 @@ Built using **Python + OpenCV**, this project makes you *disappear* in real-time
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/invisible-cloak.git
-cd invisible-cloak
+git clone [https://github.com/hp-1512/Invisibility-Cloak-with-OpenCV-Harry-Potter-Magic-in-Python-.git]
+
