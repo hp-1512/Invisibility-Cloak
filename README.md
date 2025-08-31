@@ -24,5 +24,5 @@ Built using **Python + OpenCV**, this project makes you *disappear* in real-time
 
 Clone the repo:
 ```bash
-git clone [https://github.com/hp-1512/Invisibility-Cloak-with-OpenCV-Harry-Potter-Magic-in-Python-.git]
+git clone [https://github.com/hp-1512/Invisibility-Cloak.git]
 
